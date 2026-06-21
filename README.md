@@ -2,7 +2,7 @@
 
 # Praveen Ramesh
 
-ML Engineer building production-grade AI systems, LLM applications, and scalable backend services
+Building production-grade AI systems and scalable backend infrastructure
 
 📍 Bengaluru, India · [Email](mailto:praveen14aug01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/praveen1401/)
 
@@ -10,28 +10,26 @@ ML Engineer building production-grade AI systems, LLM applications, and scalable
 
 <br>
 
-## Tech Stack
+## ⚡ Tech Stack
 
-- **Languages**     Python · SQL
-- **Backend**       FastAPI · Django
-- **AI / ML**       OpenAI · Gemini · RAG · FAISS
-- **Infra**         Docker · Redis · PostgreSQL · Linux
-- **Cloud**         Azure · AWS
+**Core**
+Python · FastAPI · RAG · Docker · PostgreSQL
 
-<br>
+**Tools & Systems**
+Django · Redis · FAISS · OpenAI · Gemini
 
-## GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=prvn-ramesh&show_icons=true&theme=default&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvn-ramesh&layout=compact&theme=default&hide_border=true" />
-</div>
+**Cloud**
+Azure · AWS
 
 <br>
 
-<div align="center">
+## 📊 GitHub Stats
 
-[![Email](https://img.shields.io/badge/Email-praveen14aug01%40gmail.com-grey?style=flat-square)](mailto:praveen14aug01@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-praveen1401-grey?style=flat-square)](https://www.linkedin.com/in/praveen1401/)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prvn-ramesh&show_icons=true&theme=algolia&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvn-ramesh&layout=compact&theme=algolia"/>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prvn-ramesh&theme=algolia"/>
+</p>
