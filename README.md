@@ -1,10 +1,10 @@
 <div align="center">
 
-# Praveen Ramesh
+<h1>Praveen Ramesh</h1>
 
 Building production-grade AI systems and scalable backend infrastructure
 
-📍 Bengaluru, India · [Email](mailto:praveen14aug01@gmail.com) · [LinkedIn](https://www.linkedin.com/in/praveen1401/)
+📍 Bengaluru, India · <a href="mailto:praveen14aug01@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/praveen1401/">LinkedIn</a>
 
 </div>
 
@@ -23,13 +23,8 @@ Azure · AWS
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Activity
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=prvn-ramesh&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prvn-ramesh&layout=compact&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prvn-ramesh&theme=algolia"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prvn-ramesh&theme=dark&background=0d1117" />
 </p>
