@@ -4,7 +4,7 @@
 
 Building production-grade AI systems and scalable backend infrastructure
 
-📍 Bengaluru, India · <a href="mailto:praveen14aug01@gmail.com">Email</a> · <a href="https://www.linkedin.com/in/praveen1401/">LinkedIn</a>
+📍 Bengaluru, India · <a href="mailto:praveen14aug01@gmail.com">Email</a> · <a href="www.linkedin.com/in/prvn-ramesh">LinkedIn</a>
 
 </div>
 
